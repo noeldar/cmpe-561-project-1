@@ -1,0 +1,4240 @@
+# text = Hayır , kara pazartesi değildi .
+N
+N
+N
+N
+N
+L
+# text = Birilerini suçlama süreci çoktan başladı .
+N
+N
+N
+N
+N
+L
+# text = Hisse senedi piyasası likit değildi .
+N
+N
+N
+N
+N
+L
+# text = Kapanıştan önceki Son saatteki alım satım işlemi 108.1 milyon hisse ile New York Menkul Kıymetler Piyasası için rekor bir seviyeye erişti .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Günün sonunda , 251.2 milyon adet hisse alım satımı gerçekleştirildi .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Dow Jones sanayi endeksi 2569.26 seviyesinden kapandı .
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Birkaç borsa işlemcisinin son dakika gelişmelerine yönelik haberler verildiğinde kafalarını salladığı görülebilirdi .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Gelinen Bu noktada , Dow endeksi yaklaşık 35 puan düşüktü .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Piyasa çöktü .
+N
+N
+L
+# text = Bu hisseler sonunda yeniden açıldı .
+N
+N
+N
+N
+N
+L
+# text = Bunun sonucunda , vadeli işlemler ile hisse senedi piyasaları arasındaki zincir parçalandı .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Önemli bir uzman " Bu işleri berbat etti , " dedi .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Ancak hisseler değer kaybetmeyi sürdürdü .
+N
+N
+N
+N
+N
+L
+# text = Dow sanayi endeksi vadeli işlemleri durdurulmasından önce saat 15 sularında 55 puan düşmüştü .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Alıcılar vadeli işlemler mağarasından içeri girdiler .
+N
+N
+N
+N
+N
+N
+L
+# text = Tartışmayı hemen ve tekrardan ön plana çıkaracak .
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Ancak ortada hiçbir alıcı yoktu .
+N
+N
+N
+N
+N
+L
+# text = Ancak hiç kimse vadeli işlemlerin ve hisse senetlerinin bugün hangi seviyeden açılacağını bilmiyor .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Bilmek isteyeceğinizi düşündük .
+N
+N
+N
+L
+# text = George Morton
+N
+L
+# text = Biz inşa etmek ve tutmak istiyoruz .
+N
+N
+N
+N
+N
+N
+L
+# text = Hoare Govett konsorsiyumun yatırım bankacısı olarak davranıyor .
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Merksamer zinciri halihazırda First Boston Corp. tarafından satışa yönelik olarak arz ediliyor .
+N
+N
+N
+N
+N
+N
+L
+N
+N
+N
+N
+N
+N
+L
+# text = haftanın toplamı bir yıl önce 274,963 tondan % 6.2 daha yukarıdaydı .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Bunlar minimum 10000 $'lık nominal değerlerde mevcut olacak .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Bu bir kerelik bir işmiş gibi bir his veriyor .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = İnsanlar paniklemiyor .
+N
+N
+L
+# text = Test bugün gelebilir .
+N
+N
+N
+L
+# text = Cuma gününün hisse senedi borsasındaki elden çıkarma işlemleri birçok yatırımcı için harekete geçmek açısından çok geç ortaya çıktı .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Ancak fon yöneticileri hazır olduklarını belirttiler .
+N
+N
+N
+N
+N
+N
+L
+# text = Fonların tümü elbette nakit seviyelerini yükseltmedi .
+N
+N
+N
+N
+N
+N
+L
+# text = Birçok fon yöneticisi halihazırda artık satın alma zamanının geldiğini tartışıyor .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Ancak çoğu yatırımcı hisse fiyatlarını ve diğer bilgileri arıyordu .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = İşlem hacmi normalden yalnızca biraz daha yüksekti .
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Hala fon grupları kendini riske atmıyor .
+N
+N
+N
+N
+N
+N
+L
+# text = Cumartesi günü Fidelity ülke çapında 54 bağımsız yatırımcı merkezi açtı .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Merkezler normalde hafta sonları kapalıdır .
+N
+N
+N
+N
+N
+L
+# text = Janus Groupun yatırımcılara yönelik benzer bir kaydı var .
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Birçok fon yöneticisi bu sabah fiyatlar isstikrarlı hale gelmeden önce daha sert bir piyasa bekliyor .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Bu büyük çaplı bir çöküş değildir , dedi .
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Şimdi bu yolların Ocak ayına kadar başlaması beklenmiyor .
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Bunların da geç kalacağı hemen hemen kesin gibi .
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = " Müşterilerinin bunu çok seveceğini sanmıyorum . "
+N
+N
+N
+N
+N
+N
+L
+L
+# text = yatırım topluluğu , Bilhassa hızlı bir çözüm bekliyor .
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = " Hiçbir şey için acil bir çözüm beklentisi içinde değilim . "
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+L
+# text = Bununla birlikte Sendika süresi sona eren sözleşme üzerinde çalışmayı sürdürüyor .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Uzlaşı dün sona erdi .
+N
+N
+N
+N
+L
+# text = Bridget O'Brian bu makaleye katkıda bulundu .
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Projeler büyük .
+N
+N
+L
+# text = 1 milyar dolar artıda olabilirler , dedi Bay Richardson .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = 5 Ekim tarihli bir Centennial Journal makalesinde , ücretler tersine döndürüldü .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Diamond Shamrock Offshore Partners , Lousiana eyaletinde denizde gaz kaynağı keşfettiğini açıkladı .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Diamond Shamrock kuyuda % 100 çıkarı olan operatördür .
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = " Genellikle muhafazakar bir tutumla hareket ediyoruz . "
+N
+N
+N
+N
+N
+N
+N
+L
+L
+# text = Fiyatlandırma döngülerinde , emin olmak adına , plastik üreticileri açısından yeni hiçbir şey yok .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = " Şimdi listenin en altında en kötü durumdayız . "
+N
+N
+N
+N
+N
+N
+N
+N
+L
+L
+# text = " İnsanlar çantaları bile istifliyordu , " diyor .
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Şimdi üreticiler fiyatların dibe vurmasını umut ediyor .
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Bazıları Kasım diyor .
+N
+N
+N
+L
+# text = Ben 1992 diyorum .
+N
+N
+N
+L
+# text = Hızlı ve keskin bir toparlanma , nakit gereksinimleri halen ağır derecede seyrettiği için Quantum açısından çok önemlidir .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Bazı analistler ödemeyi hisse ele geçirme spekülasyonunu defetmek için bir çaba olarak gördü .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Bundan sonra ikinci bir patlama meydana geldi .
+N
+N
+N
+N
+N
+N
+N
+L
+# text = İki işçi öldü ve altı işçi halen hastanede tedavi görüyor .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = " Ve halen müzakere etmek zorundasınız . "
+N
+N
+N
+N
+N
+N
+L
+L
+# text = Quantum için Her şey ümitsiz ve amansız görünmüyor .
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Quantum halen bir kriz içinde .
+N
+N
+N
+N
+N
+L
+# text = Bazı analistler zayıflayan borsanın bir talibi halen cezbedebileceği spekülasyonunu yapıyor .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Bu kota 1984 yılında % 6.9 gibi büyük bir rakamdaydı .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Gelir toplamı 5 milyon Dolar .
+N
+N
+N
+N
+N
+L
+# text = Ölçü kaplarının yerini kısa süre sonra çamaşır odasındaki yemek kaşıkları alabilir .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Bir P&G sözcüsü Phoenix'e yapılan sevkiyatların geçen ay sonunda başladığını teyit etti .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = bu tür açıklamaların politikaya Nasıl tercüme edildiği aylarca anlaşılır bir hal almayacak .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Çoğu kimse tarafından bu stiller arasındaki bir tezat olarak adlandırıldı .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Ancak bazıları bunu klasik bir pazarlık taktiği olarak gördü .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Çok vahşi hissetmiyorum .
+N
+N
+N
+L
+# text = Sert veya yumuşak hissetmiyorum .
+N
+N
+N
+N
+L
+# text = Açılan piyasaların ve genişleyen işlemlerin programına bağlı kaldığımı hissediyorum .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = ABD hükümetinin tanımladığı dışlayıcı ticari teamüllerin altını çizdi .
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Ancak , yönetilen alım satım işlemine karşıyım .
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Şirket dördüncü çeyrek sonuçlarını ortaya koymadı .
+N
+N
+N
+N
+N
+N
+L
+# text = Anlaşma şartları açıklanmadı .
+N
+N
+N
+L
+# text = Petrol endüstrisinin orta halli karları yılın geri kalanı boyunca sürdürülebilir .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Temmuz ayından itibaren % 13 düşerek 26 cent seviyelerinde geriledi .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Kimyasal fiyatı gerilemesinin büyük nedenlerinden biri aşırı genişlemedir .
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Şirketler kızgın bir şekilde kapasite ekledi .
+N
+N
+N
+N
+N
+N
+L
+# text = Benzinden gelen üçüncü çeyrek kârları daha zayıftı .
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Aşırı arz benzin fiyatlarını bu dönemde aşağı düşürdü .
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = 1988 yılının ikinci yarısında , birçok şirket rekor düzeyde benzin ve kimyasal karı yazdı .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Ana sebep hava durumu olarak devam ediyor .
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Öte yandan , bu yaz , normalden daha yumuşak bir hava olacak .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Northview yetkililerinin yeri belirlenemedi .
+N
+N
+N
+N
+L
+# text = İşlem kesin bir anlaşma ve Ideal hissedarlarının onayına tabidir .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Ideal işlemi gelecek yılın ilk aylarında tamamlamayı beklediğini açıkladı .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Stoklar bu yılın 31 Mayıs tarihinde 698 milyon seviyesindeydi .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Ferruzzi soya fasulyesi vadeli işlemler piyasasını manipüle etmeye çalıştığını reddetti .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Bu hafta diğer emtia piyasalarına bakınca :
+N
+N
+N
+N
+N
+N
+L
+# text = 1 pound 1.3210 dolar seviyesinde 4.95 cent kayıpla hesabını ödedi .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Enerji
+L
+# text = Bay Spielvogel hasmane bir teklife girişmeyeceğini söyledi .
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Şirketi düze çıkarmak için işe alındı .
+N
+N
+N
+N
+N
+N
+L
+# text = YENİ MÜŞTERİ :
+N
+N
+L
+# text = HESAP GÖZDEN GEÇİRME :
+N
+N
+N
+L
+# text = Suçsuzluk savunması :
+N
+N
+L
+# text = KORELİ AJANS :
+N
+N
+L
+# text = Samsung zaten ülkenin en büyük reklam ajansı olan Korea First Advertising Co.'nun sahibidir .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Gelir 81.5 milyondan 117 milyon Dolar seviyesine fırladı .
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = " Perakendeciler yalnızca kargaşa içinde . "
+N
+N
+N
+N
+N
+L
+L
+# text = Dergideki reklam satır sayısı üçüncü çeyrekte % 6.1 azaldı .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Affiliated Publications Inc. geçen yıl görülen üçüncü çeyrek net zararını tersine çevirdi .
+N
+N
+N
+L
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Sendika yetkilileri sonuçta politik olarak bozguna uğradılar .
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Kanada yatırım kuralları büyük yabancı kaynaklı devirlerin standarda uymasını gerektiriyor .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Hükümetin tepkisi alışılmadık bir tepkiydi .
+N
+N
+N
+N
+N
+L
+# text = Investment Canada hükümet kararının ardında yatan sebepler konusunda yorum yapmadı .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Üniversite , Connaught tarafından yapılan bir çözüm önerisi üzerinde düşünüyor .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Kamibyo kuru asla tesis edilemedi .
+N
+N
+N
+N
+N
+L
+# text = Weatherford piyasa koşullarının planlanan mübadelenin iptaline yol açtığını söyledi .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = banka borcunu bertaraf etmek ve yeniden yapılandırmak için getiriler kullanılacak .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Weatherford halihazırda tedavülde yaklaşık 11.1 milyon hisseye sahip .
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Analistlerin dönem adına küçük bir kâr umdukları söyleniyor .
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Geçen yıl en yüksek fiyat hisse başına 16.375 dolar seviyesiydi .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Aileleri , onların uyku düzenlemelerine göre analiz etti .
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Yabancılık dürüstlüğüyle ile birlikte geldiler .
+N
+N
+N
+N
+N
+L
+# text = Bay Friedman bunu " Bir Los Angeles çözümü , " olarak açıkladı .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = O bir baş belası .
+N
+N
+N
+N
+L
+# text = 21 mil karelik alan kurşun , çinko ve diğer metallerle kirlendi .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Liderlik nerede ?
+N
+N
+L
+# text = " Bu perakendecilerin aklını daha da karıştırıyor , " dedi .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Fiyatlar hala düşüyorsa bir kira anlaşması imzalayıp imzalamamaları gerektiğini merak ediyorlar .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Bir mağaza açmak için kötü bir zaman mı ?
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Yan kapıdaki boşlukta kim olacak ?
+N
+N
+N
+N
+N
+L
+# text = Ve bazı muhitlerde kiralar adeta bir durgunluk dönemine girdi .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Ofis alanlarına yönelik talebi kısıtlayan aynı etkenler perakende satış faaliyetlerini etkiledi .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Hassas dökümler yapıyor ve tezgah üstü satış yapıyor .
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Amerikan Menkul Kıymetler Borsası iki şirketi kote etti .
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Tezgah üstünden işlem gördü .
+N
+N
+N
+N
+L
+# text = Columbia Laboratories Inc. , Miami , COB simgesiyle işlem görmeye başladı .
+N
+N
+N
+L
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Tıbbi İlaç üreticisi tezgah üstü olarak işlem gördü .
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Nasqad tezgah üstü piyasasının Ulusal Piyasa Sistemi bir şirketin hisselerini listeledi .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Ve görüşü Ağustos ayındaki başarılı katarakt ameliyatı sonrasında düzeldi .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = RTC , Bu anlaşmalar altında , yalnızca mevduatları ve sağlıklı varlıkları satıyor .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Ancak bu kurumların bu adımları atıp atmayacağı belirsizdi .
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = NCNB , Florida ve Teksas piyasalarındaki akınlarını sürdürdü .
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = " Bu algı magazinin ilgisini üzerinden alıyor . "
+N
+N
+N
+N
+N
+N
+N
+L
+L
+# text = " Kalite ve katılım yaratmaya çalışıyoruz . "
+N
+N
+N
+N
+N
+N
+L
+L
+# text = Süirkülasyona katılan birkaç damlanın hiç önemi yok .
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Ancak tüm başarısı için CNN bir durgunluk dönemine giriyor .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = " Bu şekilde hayatını idame ettiremezsin . "
+N
+N
+N
+N
+N
+N
+L
+L
+# text = Ancak çok da kolay olmayacak .
+N
+N
+N
+N
+N
+L
+# text = CNN izleyicilerinin alışkanlıklarını değiştirmek istiyor .
+N
+N
+N
+N
+N
+L
+# text = Satış çabası artık daha kendine özgü gösteriler üzerinde .
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Endüstrideki bazıları şüpheci .
+N
+N
+N
+L
+# text = Kuşkusuz , vakalardaki ilke aynıdır .
+N
+N
+N
+N
+N
+L
+# text = Ancak bir hukuki ihtilafın sonucu daima etkenlere bağlıdır .
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Bunu " savaşamayacak kadar döküntüyüz " savunması olarak adlandırın .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Güneş kuşağı çiftlik üzerinde engellendi .
+N
+N
+N
+N
+N
+L
+# text = Yeni başkanın adı açıklanmadı .
+N
+N
+N
+N
+L
+# text = Bu salıverilenlerin çoğu en az 25 yılını hapishanede geçirdi .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Ancak önümüzdeki birkaç ay içinde tahliye edilmesi ciddi anlamda bekleniyor .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Bu fonlamaya karşı muhalefetini yineledi , ancak bir uzlaşma umudunu ifade etti .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Cihaz değiştirildi .
+N
+N
+L
+# text = DWG , Bay Posner tarafından kontrol edilen bir şirkettir .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = " Çekirdek oran pek de uygunsuz değil . "
+N
+N
+N
+N
+N
+N
+N
+L
+L
+# text = Gıda fiyatları Ağustos ayındaki % 0.3 yükseliş sonrasında % 0.6 düştü .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = City Federal , New Jersey ve Florida eyaletlerinde 105 banka ofisiyle hizmet veriyor .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Çoğu kimse gecikmeyi regülatörlerin teklif konusunda şüpheli olmasının bir göstergesi olarak yorumluyor .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Kadın iddiayı kazandı .
+N
+N
+N
+L
+# text = " Hemen hemen ne olursa olsun " başlığı altındaki bir ABD yapımı imitasyon hızla çöküverdi .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Birçok Britanya kaynaklı programlama sonradan kazanılan bir lezzetin fazlasıdır .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Avrupalı drama , halen karmaşık olmasına rağmen , daha iyi talihe sahipti .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Bu tür en popüler gösteriler dar ulusal kaygılar üzerine odaklanıyor .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = " bir Seçenek sunulunca , herkes ev yapımı gösteriyi izleyecektir . "
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+L
+# text = Ancak sık sık başka seçenek bulunmayabilir .
+N
+N
+N
+N
+N
+N
+L
+# text = Sonuç programlama açısıdan yeni ve büyük bir lezzettir .
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Şirketler yıl sonuna kadar bir nihai anlaşma umudu içindeler .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Girişimin Thomson açısından önemi büyük .
+N
+N
+N
+N
+N
+L
+# text = Bu giderek büyüyen bir kaygı .
+N
+N
+N
+N
+N
+L
+# text = Sistem halihazırda günde 1.55 milyon varil kapasitesi sunuyor .
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Inland üçüncü çeyrek sonuçlarının bu haftanın ilerleyen günlerinde ilan edileceğini söyledi .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Bilgisayar firmalarının mali sonuçlarının tahmin edilmesi son zamanlarda oldukça zor bir iş haline geldi .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Ancak bunların hepsi 3 ay önceki hikayeydi .
+N
+N
+N
+N
+N
+N
+N
+L
+# text = " Endüstri karakterizasyona baş kaldırıyor . "
+N
+N
+N
+N
+N
+L
+L
+# text = International Business Machines Corp.'un da hayal kırıklığına uğratacak sonuçlar açıklaması beklenmekte .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Diğer çelişkili bir mesaj da bir bilgisayar perakende satıcısı olan Businessland Inc.'den geldi .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Şirketler standartlar uğruna savaşmaya devam edecek .
+N
+N
+N
+N
+N
+N
+L
+# text = Program basılı malzemelerin kalitesinin artırılmasını amaçlıyor .
+N
+N
+N
+N
+N
+N
+L
+# text = Aldus yetkililerine yorum almak için ulaşılamadı .
+N
+N
+N
+N
+N
+N
+L
+# text = bir Veri yolu bir bilgisayar dahilindeki Veri akışını sağlayan bir otobandır .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Kazananlar ile ağır davrananlar arasındaki fark büyüyecek .
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Aynı zamanda , ikinci ligdeki firmalar da zemin kaybetmeye devam edecek .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = bazı geri kalan rakipler bile kişisel bilgisayar işini birlikte terk edebilir .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Ancak hızlı hareket etmek zorundalar .
+N
+N
+N
+N
+N
+L
+# text = Bir yığın yeni bilgisayar şirketi de bu " server " piyasasını hedefledi .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = orta batı Eyaletleri için Nüfus Tahliyesi Sona Eriyor
+N
+N
+N
+N
+N
+N
+N
+L
+# text = IOWA bir geri dönüş gerçekleştiriyor .
+N
+N
+N
+N
+N
+L
+# text = Indiana , Ohio ve Michigan da öyle .
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Kazançlar , elbette , oldukça küçük .
+N
+N
+N
+N
+N
+N
+L
+# text = nüfus yarışında Northeast yerini koruyor .
+N
+N
+N
+N
+N
+L
+# text = Daha Fazla Yaşlı Bağımsızlığını Koruyor
+N
+N
+N
+N
+L
+# text = Modern tıp sayesinde , artık daha fazla çift birlikte yaşlanıyor .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = İnsanlar yaşlandıkça , birçoğu dul kalıyor .
+N
+N
+N
+N
+N
+N
+L
+# text = Kariyerler Çoğunlukla Rahatı Önemli Tutuyor
+N
+N
+N
+N
+L
+# text = Birçok VARLIKLI insan kişisel başarı ve parayı ailenin önünde tutar .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Yüzde yirmisi finansal açıdan varlık içinde olduklarını hissetmiyor bile .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Varlıklıların çoğu da kendilerinden memnun değiller .
+N
+N
+N
+N
+N
+N
+L
+# text = Ivır Zıvır
+N
+L
+# text = Bu küçük Dallas banliyosunun başı dertte .
+N
+N
+N
+N
+N
+N
+L
+# text = Pandoranın kutusunu açacaktır .
+N
+N
+N
+L
+# text = Addison da artık pandoranın kutusuna yabancı değil .
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Şimdi havuz dalgalanmasına sıra geliyor .
+N
+N
+N
+N
+N
+L
+# text = Anita Davis
+N
+L
+# text = Elbette , Bay Mason nötr bir dil kullanmadı .
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = İnsanlar sıkıştığı yeri hızla terk ediyor .
+N
+N
+N
+N
+N
+N
+L
+# text = Neden olumlu ?
+N
+N
+L
+# text = Ancak bunlar başlıkları oluşturan farklar değil .
+N
+N
+N
+N
+N
+N
+L
+# text = İki onaylanmayan akrabanın da göçmen olması kayda değer bir husus .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Bir yere kadar , baloncuklar az sayıda ve araları uzak .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Tanıdık mı geliyor ?
+N
+N
+N
+L
+# text = Ekonomiyle ilgili bir sorun yok , tüm endeksler yukarıda .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Bunu daha önce duydunuz mu ?
+N
+N
+N
+N
+N
+L
+# text = Saray Senato müzakereleri hafta ortasında başlayacak ve bir süre devam edecek .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Kesintiye muhalifler hırslı oynuyorlar .
+N
+N
+N
+N
+L
+# text = Bu mevzuat ay sonuna kadar yasalaştırılmalıdır .
+N
+N
+N
+N
+N
+N
+L
+# text = Beyaz Saray senatörlere katılma konusunda isteksiz görünüyor .
+N
+N
+N
+N
+N
+N
+N
+L
+# text = İşler fazla ileri gitti .
+N
+N
+N
+N
+L
+# text = Sen. Dole her Senatör tarafından hareket konusunda fedakarlık gerektiğini söyledi .
+N
+L
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Çoğunlukla , şirketleri etkileyen bu gelir artırıcı hükümler :
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Bu Önlem ayrıca harcama kesintileri ve federal ücretlerde artışları içeriyor .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Hükümleri arasında bulunanlar :
+N
+N
+N
+L
+# text = Plan gelecek yıl doktor ücretlerinde kısa bir dondurma getirecek .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Benzer bir hüküm , Beyaz Saray versiyonunda bulunuyor .
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Nükleer Düzenleme Komisyonu ücretlerindeki artışın toplamı 54 milyon dolar .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Şaka mı yapıyorsun ?
+N
+N
+N
+L
+# text = Makalenizin ciddi bir gerçeklik kontrolüne ihtiyacı var .
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Reva Levin
+N
+L
+# text = Cambridge , Mass .
+N
+N
+N
+L
+# text = Cuma günkü baskıda , birimin adı yanlış ifade edildi .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Columbia Savings sözde ıskarta tahvillerin büyük sahiplerinden biridir .
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Columbia Savings yetkililerine gerileme hakkındaki yorum için ulaşılamadı .
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = FRANKLIN SAVINGS ASSOCIATION ( Ottawa , Kanada ) -- ) --
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Sanırım onların tarafında bu biraz erken oldu .
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Joseph Granville .
+N
+N
+L
+# text = Bir teknisyenseniz , sinyallare uyarsınız .
+N
+N
+N
+N
+N
+L
+# text = 220 seviyesine kadar önemli bir destek görmüyorum .
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Bu ay 2200 seviyesine gidiş olasılığı görüyorum . "
+N
+N
+N
+N
+N
+N
+N
+L
+L
+# text = Elaine Garzarelli .
+N
+N
+L
+# text = Şimdi , bu iki yıldaki gibi , borsa göstergeleri olumlu .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Yani hasarın kısa ömürlü ve sınırlı olacağını düşünüyor .
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Benim tavsiyem satın almadır .
+N
+N
+N
+N
+L
+# text = Ned Davis .
+N
+N
+L
+# text = Borç sınırı rekor derecede yükseldi .
+N
+N
+N
+N
+N
+L
+# text = A tipi yatırım fonlarına yönelik müthiş bir Halk ilgisi vardı .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Borsadaki 1 milyar dolar buna bağlıydı .
+N
+N
+N
+N
+N
+N
+L
+# text = Gelecek birkaç ayda , buna rağmen , işlerin kötü göründüğünü söylüyor .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Muhtelemen bir yıl sonu toparlanması göreceğiz , daha sonra tekrar düşecek .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Bir nevi iki kademeli ayı piyasası .
+N
+N
+N
+N
+N
+N
+L
+# text = " Bu normal bir ayı piyasası olacak , " diyor .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = " Sanırım bu benim öngörüm . "
+N
+N
+N
+N
+N
+L
+L
+# text = " Piyasanın başka bir Ekim 87 vakası yaşayacağını sanmıyorum . "
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+L
+# text = Şimdi ile iki yıl öncesi arasında birkaç önemli farkı işaretliyor .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = " Yani çok karmakarışık . "
+N
+N
+N
+N
+L
+L
+# text = John Kenneth Galbraith .
+N
+N
+N
+L
+# text = Bu hem yatırımcıları tedirgin etti hem de şirketler daha kırılgan hale geldi .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Bununla birlikte , bir durgunluk ya da kriz mümkün görünmüyor .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Mario Gabelli .
+N
+N
+L
+# text = Jim Rogers .
+N
+N
+L
+# text = " Cuma dolar satamazsın , " diyor .
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Frank Curzio .
+N
+N
+L
+# text = Birçok kişi artık 1987 çöküşünün tahmin edildiğini iddia ediyor .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Renaissance parasını tamamen nakit benzeri yatırımlarda , öncelikle ABD hazine bonolarında tutuyor .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Bu yazınızın gerçeklere dayalı olduğunu ve incelikli bir şekilde aydınlatıcı olduğunu düşünüyorum .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Evet , yaptı .
+N
+N
+N
+L
+# text = Kendi tanıklarının anayasal haklarını savunan yaklaşık 56 kelime sarf etti .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Anayasal etin övgüsünü büyük huysuz yorum dilimlerinin arasına sıkıştırdı .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Kesinlikle zırva .
+N
+N
+L
+# text = Açıkçası , mahkeme kararı içerde .
+N
+N
+N
+N
+N
+L
+# text = Tam şimdi kanıt peşinde koşuyorlar .
+N
+N
+N
+N
+N
+L
+# text = Bu uygulama benim okulda bulunduğum zamana nasıl atfedildi ?
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Ah , evet , bir Star Chamber olarak bilinen bir şey .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Hiç şüphesiz bu kısmen doğrudur .
+N
+N
+N
+N
+N
+L
+# text = Uygun anayasal tedbirleri ve pratik sağduyuyu savundu .
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Sorun olan sistem , herhangi bir belirli üye değil .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Kişiler her zaman şamar atabilirler .
+N
+N
+N
+N
+N
+L
+# text = Hiçbir şekilde HUD yönetimini savunmuyorum .
+N
+N
+N
+N
+N
+L
+# text = Raymond Weber
+N
+L
+# text = Parsippany , N.J .
+N
+N
+N
+L
+# text = P Estes Park , Colorado
+N
+N
+N
+N
+L
+# text = Yalnızca bir tesadüf mü ?
+N
+N
+N
+N
+L
+# text = Ya da 13 rakamı fobisi doğrulandı mı ?
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Alım satım seansının son 45 dakikasında 10 puanlık düşüş görüldü .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Kasti amaçlı değildi , hepimiz çok meşguldük .
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Herkes aynı şeyi aynı zamanda yapmaya çalışıyor .
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Satış çıldırdığında , fiyatlar sert ve hızla düşer .
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Cuma günü , bazı borsacılara göre , bazı piyasa belirleyiciler tekrar satışa başladı .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = " Herkes diğerlerinin teklifine çarpıyordu , " dedi .
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = " Alım - satımın hızı normal ve düzenliydi , " dedi .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Ancak onlar endişeliydi .
+N
+N
+N
+L
+# text = Tezgah üstü piyasası yalnızca bir avuç devirle ilgili hisseye sahip .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Ancak keskin düştüler .
+N
+N
+N
+L
+# text = McCaw % 8 veya 3 1/2 puan düşerek 40 seviyesine yerleşti .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = LIN Broadcasting , 5 1/2 puan veya % 5 düşerek 107 1/2 oldu .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Her iki hisse için de toplam satış normaldi .
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Iskarta hisse piyasası ile bağlantılı şirketlerin hisseleri da Cuma günü alt üst oldu .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = 13 Ekim 1989 , Cuma
+N
+N
+N
+N
+L
+# text = ANA FAİZ ORANI :
+N
+N
+N
+L
+# text = % 10 1\/2 .
+N
+N
+N
+N
+N
+N
+L
+# text = Büyük ABD para merkezi ticari bankalarındaki kurumsal kredilere yönelik baz oran .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = FEDERAL fonlar :
+N
+N
+L
+# text = Kaynak : Fulton Prebon ( U.S.A . ) Inc .
+N
+N
+N
+N
+N
+N
+L
+N
+N
+L
+# text = İSKONTO ORANI :
+N
+N
+L
+# text = % 7 .
+N
+N
+L
+# text = New York Federal Reserve Bank tarafından Mevduat kuruluşlarında kredilerdeki komisyon .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = VADESİZ KREDİ :
+N
+N
+L
+# text = % 9 3/4 ila % 10 .
+N
+N
+N
+N
+N
+N
+L
+# text = Menkul kıymetler borsası teminatlarında borsacılara kredi komisyonu .
+N
+N
+N
+N
+N
+N
+N
+L
+# text = General Motors Acceptance Corp. tarafından doğrudan yerleştirilen ŞİRKET SENEDİ :
+N
+N
+N
+N
+L
+N
+N
+N
+N
+N
+L
+# text = ŞİRKET SENEDİ :
+N
+N
+L
+# text = % 8.65 , 30 gün ; % 8.55 , 60 gün ; % 8.55 , 90 gün .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Mevduat BONOLARI :
+N
+N
+L
+# text = Minimum birim 100.000 dolar .
+N
+N
+N
+N
+L
+# text = İkincil piyasadaki tipik oranlar :
+N
+N
+N
+N
+L
+# text = % 8.65 , 1 ay ; % 8.65 , 3 ay ; % 8.55 , 6 ay
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = BANKA KABUL KREDİLERİ :
+N
+N
+N
+L
+# text = Devredilebilir , banka destekli işletme kredi araçları tipik şekilde bir ithalat siparişini finanse ediyor .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Londra geç EURODOLLAR :
+N
+N
+N
+L
+# text = Londra bankalar arası faiz oranı ( LIBOR ) :
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Yabancı ANA FAİZ ORANLARI :
+N
+N
+N
+N
+L
+# text = Bu oran göstergeleri doğrudan kıyaslanabilir değildir , kredi verme uygulamaları mekana göre değişiklik gösterir .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Hazine bonoları :
+N
+N
+L
+# text = % 7.63 - 13 hafta ; % 7.60 - 26 hafta .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Federal HOME LOAN MORTGAGE CORP . ( Freddie Mac ) :
+N
+N
+N
+N
+N
+L
+N
+N
+N
+N
+L
+# text = 30 gün içinde teslimata yönelik 30 yıllık ipotek taahhütleri üzerinde ilan edilen getiri .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Kaynak : Telerate Systems Inc .
+N
+N
+N
+N
+N
+L
+# text = FEDERAL NATIONAL MORTGAGE ASSOCIATION ( Fannie Mae ) :
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Kaynak : Telerate Systems Inc .
+N
+N
+N
+N
+N
+L
+# text = MERRILL LYNCH READY ASSETS TRUST :
+N
+N
+N
+N
+N
+L
+# text = % 8.33 .
+N
+N
+L
+# text = Ve bugün daha fazla satın almayı planlıyorlar .
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Halen panik yapabilir ve piyasadan çıkabilirler .
+N
+N
+N
+N
+N
+N
+L
+# text = Piyasa daha da zayıflarsa kalanı da yatırmayı bekliyor .
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Daha sonra piyasaya daldı :
+N
+N
+N
+N
+L
+# text = " Son yarım saatte $ 30 milyon harcadım . "
+N
+N
+N
+N
+N
+N
+N
+N
+L
+L
+# text = Diğer para yöneticileri de cüzdanlarını açtı .
+N
+N
+N
+N
+N
+N
+L
+# text = " Bu çöküş için temel seviyede herhangi bir gerekçe bulunmuyor . "
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+L
+# text = Sen geriye dönemeden önce olabilir .
+N
+N
+N
+N
+N
+L
+# text = Artık bunların hepsi değişti .
+N
+N
+N
+N
+L
+# text = Servet yapıyor olmasak da , iyi bir gün geçiriyoruz .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Bu bir kodaman değil , bir ajanda .
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Birkaç saat sonra borsa 190 puan düştü .
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Bunu değerlendirin :
+N
+N
+L
+# text = Bu olmadı .
+N
+N
+L
+# text = Çok problem yaşamadan hayatta kalabileceklerini öğrendiler .
+N
+N
+N
+N
+N
+N
+L
+# text = Bazı oyuncular anı yakalamak için hızlı davrandılar .
+N
+N
+N
+N
+N
+N
+N
+L
+# text = 3 ve 6 aylık bonolar için 15.2 milyar dolar .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = İki yıllık tahviller , muaccel olan borç içinde yaklaşık 9.6 milyar doları yeniden finanse etti .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = 53 haftalık tahvillerde 9.75 milyar dolar .
+N
+N
+N
+N
+N
+N
+L
+# text = Connecticut Light & Power Co .
+N
+N
+N
+N
+N
+L
+# text = 25 dolar fiyatlı 3 milyon tercihli hisse , açık artırmalı ihale yoluyla .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Salomon Brothers Inc vasıtasıyla 4 milyon adi hisse .
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Baldwin Technology Co.
+N
+N
+N
+L
+# text = Blockbuster Entertainment Corp .
+N
+N
+N
+L
+# text = Chase Manhattan Corp.
+N
+N
+N
+L
+# text = Goldman , Sachs & Co vasıtasıyla 14 milyon adi hisse .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Comcast Corp.
+N
+N
+L
+# text = Merrill Lynch vasıtasıyla 150 milyon doları dönüştürülebilir tahviller .
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = CSS Industries --
+N
+N
+N
+L
+# text = Merrill Lynch vasıtasıyla 1.3 milyon adet adi hisse .
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Eastern Utilities Associates --
+N
+N
+N
+N
+L
+# text = PaineWebber Inc vasıtasıyla 1.5 milyon adi hisse .
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Employee Benefit Plans Inc .
+N
+N
+N
+N
+L
+# text = Dean Witter Capital Markets vasıtasıyla 2 milyon adi hisse .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Exabyte Corp. --
+N
+N
+L
+N
+L
+# text = Goldman Sachs vasıtasıyla 2850000 adi hisse .
+N
+N
+N
+N
+N
+N
+L
+# text = Knowledgeware Inc. --
+N
+N
+L
+N
+L
+# text = Montgomery Securities vasıtasıyla 2.4 milyon adi hisse .
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Oregon --
+N
+N
+L
+# text = Virginia Devlet Okulları Kurumu --
+N
+N
+N
+N
+N
+L
+# text = Austin , Teksas --
+N
+N
+N
+N
+L
+# text = California Sağlık Tesisleri Finansman Kurumu --
+N
+N
+N
+N
+N
+N
+L
+# text = Bir PaineWebber Group vasıtasıyla 144.5 milyon dolar değerinde Kaiser Permanente gelir bonoları .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Connecticut --
+N
+N
+L
+# text = Pennsylvania Yüksek Eğitim Tesisleri Kurumu --
+N
+N
+N
+N
+N
+N
+L
+# text = Tennessee Valley Kurumu --
+N
+N
+N
+N
+L
+# text = First Boston Corp vasıtasıyla üç milyarlık power tahvili .
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = New Jersey Tıp Ve Dişçilik Üniversitesi --
+N
+N
+N
+N
+N
+N
+N
+L
+# text = West Virginia Parkways , Ekonomik Kalkınma Ve Turizm Kurumu --
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = San Antonio , Teksas --
+N
+N
+N
+N
+N
+L
+# text = Güney Dakota Sağlık ve Eğitim Tesisi Kurumu --
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Ancak diğerleri hakkında emin değil .
+N
+N
+N
+N
+N
+L
+# text = Ben bekleyeceğim .
+N
+N
+L
+# text = Şimdi satarsam , büyük zarar edeceğim .
+N
+N
+N
+N
+N
+N
+L
+# text = Borç verenler arasındaki temayüle yönelik genel bir beğenmezlik olduğu konusunda herhangi bir şüphe yok .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Diğerleri küçük yatırımcının bu küçük şoklardan daha kaç tanesine dayanabileceğini merak ediyor .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Şimdi tekrar oluyor .
+N
+N
+N
+L
+# text = Küçük adam korkutulunca , büyük adamlar kötü zarar görür .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Merrill Lynch küçük adam olmadan ayakta kalamaz .
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Ve , son olarak , başkasının talihsizliğinden zevk alanlar var .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Bay Antori de girecek mi ?
+N
+N
+N
+N
+N
+L
+# text = Şaka mı yapıyorsun !
+N
+N
+N
+L
+# text = Palmtops çok da geride değil .
+N
+N
+N
+N
+N
+L
+# text = Bu çok büyük .
+N
+N
+N
+L
+# text = Daha küçük bilgisayarlar yapılması genellikle hafızada fedakarlık anlamına geliyor .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Boyut ve ağırlık hususları da ekranları etkiledi .
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Rekabetçi pusu ateşi bazen epey önemsiz olabilir .
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Analistler bu şekilde görmüyor .
+N
+N
+N
+N
+L
+# text = Avco Corp. Ordudan 11.8 milyon Dolar değerinde bir helikopter motoru sözleşmesi aldı .
+N
+N
+L
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Aylık artış son 4 yılda kaydedilen en yüksek seviyedeydi .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Riskli girişim ?
+N
+N
+L
+# text = Hangi riskli girişim ?
+N
+N
+N
+L
+# text = Kamu hizmeti şirketlerinin hisseleri elden çıkarma dönemi esnasında diğer piyasa sektörlerinden görece olarak daha iyi korundu .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Elbette , çok daha fazla hisse , 93 , yeni düşük seviyeler getirdi .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = IBM 102 dolardan kapanarak , 5.625 dolar düşüş göstermiş oldu .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Ekledi : 1987 yılında volatilite konusunda bir ders aldık .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Analistler ve rakipler , yine de , rakamların bu kadar yüksek olması konusunda kuşku duyuyorlardı .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Budget sık uçan yolcu maliyetlerinin Avis seviyesine göre " önemli ölçüde daha düşük " olduğunu bildirdi .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = " Bu şovun enerji seviyesini yükseltecek . "
+N
+N
+N
+N
+N
+N
+L
+L
+# text = Tandem 3 aylık döneme dair tüm sonuçları gelecek hafta bildirmeyi umuyor .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = " Biz Biraz daha büyük bir nişin peşindeyiz , " dedi .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Henüz zıplamayın .
+N
+N
+L
+# text = Bu garip bir şekilde iyimser görünebilir .
+N
+N
+N
+N
+N
+N
+L
+# text = Aşağı gittiğinde , tüm geleneklere göre , ekonomi izledi .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Piyasa artan şekilde ulusun geri kalanından kopmuş görünüyor .
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = " Bu tür bir hareketin hiçbir mantığı yok . "
+N
+N
+N
+N
+N
+N
+N
+N
+L
+L
+# text = Mali hizmetler endüstrisi 1987 çöküşüyle hırpalandı .
+N
+N
+N
+N
+N
+N
+L
+# text = Büyüme daha yavaş .
+N
+N
+N
+L
+# text = Karlar daha yumuşak .
+N
+N
+N
+L
+# text = Borç yükleri daha ağırdır .
+N
+N
+N
+N
+L
+# text = 1987 ile 1989 arasındaki başka büyük bir fark hiç de rahatlatıcı değil .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = " Birçok bastırılan talep gitti . "
+N
+N
+N
+N
+N
+L
+L
+# text = Bu herhangi bir yerde direnç ile telafi işlemiydi .
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Ancak , süreç dahilinde , Fed enflasyonu yeniden ateşleme riskini alıyor .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Anketler tüketici güveninin Cuma öncesinde daha yüksek olduğunu gösterdi .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Felaket tellallarının kavrayışlı dinleyici kitlesi vardı .
+N
+N
+N
+N
+N
+N
+L
+# text = Kara Pazartesini izleyen bolluk bugün daha iyimsel bir görünüşe izin veriyor .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Bu defa çok daha tecrübeliler .
+N
+N
+N
+N
+N
+L
+# text = " Bu son 5 ya da 6 düşüşü işaret eden çeyreğin ilki olabilir . "
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+L
+# text = Bir Dow sözcüsü tahminler üzerinde yorum yapmayı isteğini reddetti .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Du Pont yorum yapmadı .
+N
+N
+N
+N
+L
+# text = Monsanto yorum yapmadı .
+N
+N
+N
+L
+# text = Ancak emtia - kimyasal üreticileri bir fiyatlandırma döngüsünün olumsuz tarafında yakalandı .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Ancak tahminler hisse başına başa baş noktasından 35 cent seviyesine değişiyor .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Dow Chemical Co. --
+N
+N
+N
+L
+N
+L
+# text = Centel Capital Corp. --
+N
+N
+N
+L
+N
+L
+# text = Federal Home Loan Mortgage Corp. --
+N
+N
+N
+N
+N
+L
+N
+L
+# text = Federal Home Loan Mortgage Corp. --
+N
+N
+N
+N
+N
+L
+N
+L
+# text = Fiyatlandırma detayları hemen sunulamadı .
+N
+N
+N
+N
+L
+# text = Federal Home Loan Mortgage Corp. --
+N
+N
+N
+N
+N
+L
+N
+L
+# text = $ 200 milyonluk soyunmuş ipotek menkul BT Securities Corp tarafından sigortalanmıştı .
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+L
+# text = Ek Teminat bir tasarruf kurumu tarafından satılıyor .
+N
+N
+N
+N
+N
+N
+N
+L
