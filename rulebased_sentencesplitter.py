@@ -125,7 +125,7 @@ class rulebased_sentencesplitter:
                 sentences.append(text[sent_start:].strip())
         return sentences
 
-
+"""
 aa = "Hâla AMR istediğinden eminim ."
 bb=rulebased_sentencesplitter()
-print(bb.sent_tokenize(aa, bb.turkish_abbreviation_set))
+print(bb.sent_tokenize(aa, bb.turkish_abbreviation_set))"""

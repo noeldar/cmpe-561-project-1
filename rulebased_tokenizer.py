@@ -235,6 +235,7 @@ class rulebased_tokenizer:
                     for adjusted_token in self._adjust_on_punc(token):
                         yield adjusted_token
 
+"""
 dnm = "Saat 12:00."
 
 a=rulebased_tokenizer()
@@ -242,3 +243,4 @@ a=rulebased_tokenizer()
 tokens = a._tokenize(dnm)
 for token in tokens:
     print(token)
+"""
